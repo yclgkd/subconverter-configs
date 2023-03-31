@@ -1,8 +1,13 @@
 # 内容：AI
 # 数量：3条
 
+# ChatGPT start
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,ai.com
+# ChartGPT end
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,midjourney.com
