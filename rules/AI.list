@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,cloudflare.com
 # ChartGPT end
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,midjourney.com
