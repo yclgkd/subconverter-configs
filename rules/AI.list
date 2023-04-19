@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,featuregates.org
 # ChartGPT end
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,midjourney.com
