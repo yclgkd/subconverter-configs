@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,ingest.sentry.io,REJECT
 # ChartGPT end
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,midjourney.com
