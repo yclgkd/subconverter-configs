@@ -13,3 +13,10 @@ DOMAIN-SUFFIX,sentry.io
 # ChartGPT end
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,midjourney.com
+# claude start
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,usefathom.com
+# claude end
