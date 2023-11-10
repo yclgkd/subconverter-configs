@@ -10,6 +10,10 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,collinsdictionary.com
 # ChartGPT end
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,midjourney.com
