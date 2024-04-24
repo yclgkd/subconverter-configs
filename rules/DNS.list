@@ -5,9 +5,9 @@
 # Alibaba
 DOMAIN,httpdns.alicdn.com
 DOMAIN,dns.alicdn.com
-IP-CIDR,223.6.6.6
-IP-CIDR6,2400:3200::1
-IP-CIDR6,2400:3200:baba::1
+IP-CIDR,223.6.6.6/32
+IP-CIDR6,2400:3200::1/128
+IP-CIDR6,2400:3200:baba::1/128
 # Aliyun
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-sc.aliyuncs.com
@@ -83,7 +83,7 @@ IP-CIDR,1.12.12.12/32
 IP-CIDR,120.53.53.53/32
 DOMAIN,dot.pub
 DOMAIN,sm2.doh.pub
-IP-CIDR6,2402:4e00::
+IP-CIDR6,2402:4e00::/128
 
 # baidu
 IP-CIDR,180.76.76.76/32
