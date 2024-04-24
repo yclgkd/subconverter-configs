@@ -1,9 +1,6 @@
-#!name=🍟 Fries: 🚫 Block HTTPDNS
-#!desc=阻止常见的 HTTPDNS 服务器
-#!author=VirgilClyne
-#!homepage=https://github.com/VirgilClyne/GetSomeFries/wiki/🚫-HTTPDNS
-#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
-
+#!name=🍟 Fries: 🚫 Block DNS
+#!desc=阻止没有用到的 DNS 服务器
+#!coauthor=VirgilClyne
 
 # Alibaba
 DOMAIN,httpdns.alicdn.com
