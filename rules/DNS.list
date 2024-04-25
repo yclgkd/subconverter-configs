@@ -52,6 +52,11 @@ DOMAIN,httpdns.volcengineapi.com
 DOMAIN,dns.weibo.cn
 IP-CIDR,39.97.128.148/32
 IP-CIDR,39.97.130.51/32
+IP-CIDR,49.7.37.75/32
+IP-CIDR,111.13.134.172/32
+IP-CIDR,202.108.0.90/32
+IP-CIDR,123.126.43.245/32
+
 # Weixin
 DOMAIN,dns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
